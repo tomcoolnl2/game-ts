@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gamets-dev-200907-authRole",
+            "UnauthRoleArn": "arn:aws:iam::342082162250:role/amplify-gamets-dev-200907-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::342082162250:role/amplify-gamets-dev-200907-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-gamets-dev-200907-deployment",
+            "UnauthRoleName": "amplify-gamets-dev-200907-unauthRole",
+            "StackName": "amplify-gamets-dev-200907",
+            "StackId": "arn:aws:cloudformation:eu-west-2:342082162250:stack/amplify-gamets-dev-200907/edf412c0-d358-11ea-8dfd-021ebf3a767c",
+            "AmplifyAppId": "d3vi3kcu89llvu"
+        },
+        "categories": {
+            "auth": {
+                "gamets225db4e4": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"gamets225db4e4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
